@@ -1,6 +1,6 @@
 var scriptPram = document.getElementById('cu-brand-bar-embed');
 var color = scriptPram.getAttribute('data-color');
-if(color=='') {
+if(color == '') {
   color = 'black';
 }
 
