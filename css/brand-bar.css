@@ -2,3 +2,8 @@
 .brand-bar {
   
 }
+img.ucb-logo {
+ width:100%;
+  max-width:240px;
+  height:auto;
+}
