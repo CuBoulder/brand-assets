@@ -4,7 +4,7 @@ var logoColor;
 if (color == 'black') {
   logoColor = 'white';
 }
-elseif (color == 'white) {
+elseif (color == 'white') {
   logoColor = 'black';
 }
 else {
