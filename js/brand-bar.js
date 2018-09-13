@@ -9,7 +9,7 @@ elseif (color == 'white') {
 }
 else {
   color = 'black';
-  logoColor = 'white;
+  logoColor = 'white';
 }
 
 document.write('<link href="//cuboulder.github.io/brand-assets/css/brand-bar.css" rel="stylesheet" type="text/css" />');
