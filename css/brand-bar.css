@@ -1,17 +1,31 @@
 
-.brand-bar {
+.ucb-brand-bar {
   display:flex;
   flex-direction: row;
   justify-content: space-between;
   align-items:center;
 }
-img.ucb-logo {
+.ucb-brand-bar img.ucb-logo {
  width:100%;
   max-width:240px;
   height:auto;
   margin-right:20px;
 }
-img.ucb-search {
+.ucb-brand-bar img.ucb-search {
   width:18px;
   height:18px;
+}
+
+.ucb-footer p {
+  margin:0;
+  padding:0;
+}
+.ucb-footer a.ucb-home-link {
+  font-weight:bold; 
+}
+.ucb-footer img.ucb-footer-be-boulder {
+  max-width:240px;
+  width:100%;
+  height:auto;
+  display:block;
 }
