@@ -1,4 +1,4 @@
-
+/* CU Boulder Brand Bar */
 .ucb-brand-bar {
   display:flex;
   flex-direction: row;
@@ -16,6 +16,7 @@
   height:18px;
 }
 
+/* CU Boulder Footer */
 .ucb-footer p {
   margin:0;
   padding:0;
@@ -28,4 +29,7 @@
   width:100%;
   height:auto;
   display:block;
+}
+.ucb-footer .ucb-footer-links {
+ font-size:85%; 
 }
