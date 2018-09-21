@@ -1,5 +1,16 @@
 var scriptPram = document.getElementById('cu-brand-bar-embed');
-var logoColor = scriptPram.getAttribute('data-color');
+var color = scriptPram.getAttribute('data-color');
+var logoColor;
+if (color == 'black') {
+  logoColor = 'white';
+}
+else if (color == 'white') {
+  logoColor = 'black';
+}
+else {
+  color = 'black';
+  logoColor = 'white';
+}
 
 document.write('<link href="//cuboulder.github.io/brand-assets/css/brand-bar.css" rel="stylesheet" type="text/css" />');
 
