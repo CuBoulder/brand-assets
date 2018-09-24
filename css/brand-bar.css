@@ -5,6 +5,9 @@
   justify-content: space-between;
   align-items:center;
 }
+.ucb-brand-bar.ucb-brand-bar-black {
+  background-color:#000; 
+}
 .ucb-brand-bar img.ucb-logo {
  width:100%;
   max-width:240px;
