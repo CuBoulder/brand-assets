@@ -21,3 +21,6 @@ Includes the Be Boulder image, a link the the campus websites, the Regents copyr
 `<script type="text/javascript" src="//cuboulder.github.io/brand-assets/js/footer.js?" id="cu-footer-embed" data-color="white" />`
   
 Setting the color sets the color of the Be Boulder image. Acceptable values are white or black. Defaults to black.
+
+## Notes
+These elements do not include outside padding or margins. Any extra padding should be handled by where the script is being embeded.
