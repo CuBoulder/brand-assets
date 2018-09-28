@@ -1,4 +1,4 @@
-var scriptPram = document.getElementById('cu-brand-bar-embed');
+var scriptPram = document.getElementById('ucb-brand-bar-embed');
 var color = scriptPram.getAttribute('data-color');
 var logoColor;
 if (color == 'black') {
