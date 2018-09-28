@@ -12,8 +12,9 @@
   background-color:#000; 
 }
 .ucb-brand-bar img.ucb-logo {
- width:100%;
-  max-width:240px;
+  width:100%;
+  max-width: 200px;
+  min-width:160px;
   height:auto;
   margin-right:20px;
 }
