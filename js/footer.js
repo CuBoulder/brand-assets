@@ -1,4 +1,4 @@
-var scriptPram = document.getElementById('cu-footer-embed');
+var scriptPram = document.getElementById('ucb-footer-embed');
 var color = scriptPram.getAttribute('data-color');
 var logoColor;
 if (color == 'black') {
