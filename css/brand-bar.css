@@ -18,6 +18,11 @@
   height:auto;
   margin-right:20px;
 }
+@media screen and (min-width:768px) {
+  .ucb-brand-bar img.ucb-logo {
+    max-width:240px;
+  }
+}
 .ucb-brand-bar img.ucb-search {
   width:18px;
   height:18px;
