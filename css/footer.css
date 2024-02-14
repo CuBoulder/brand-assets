@@ -1,1 +1,12 @@
-
+.ucb-footer.black {
+  background:#000;
+  color:#fff;
+  padding:20px;
+}
+.ucb-footer.black a:link,
+.ucb-footer.black a:visited {
+  color:#CFB87C;
+}
+.ucb-footer.center {
+  text-align:center;
+}
